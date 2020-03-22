@@ -1,4 +1,11 @@
-<p align="center">Screens of system</p>
+<p align="center">## Screens of system</p>
+
+<div>
+    <p align="center">
+        Authentication
+        <img src="https://github.com/luizpaulogroup/selling-system-in-laravel/blob/master/images-sytem/authentication.png?raw=true" width="400">
+    </p>
+</div>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
