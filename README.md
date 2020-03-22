@@ -6,7 +6,7 @@ I am studying this framework,
 learning how to manipulate data with bank, session, routes, methods. With that, I developed this very basic / simple selling system (1: 1).
 </p>
 
-<p align="center">Screens of system</p>
+<p align="center">Sale screen images</p>
 
 <div>
     <p align="center">
