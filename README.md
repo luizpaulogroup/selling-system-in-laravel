@@ -4,15 +4,13 @@ Learning the framework.
 
 I am studying this framework,
 learning how to manipulate data with bank, session, routes, methods. With that, I developed this very basic / simple selling system (1: 1).
+<br>
+Access the images-system folder to view all images on the system screens.
 </p>
 
 <p align="center">Sale screen images</p>
 
 <div>
-    <p align="center">
-        Authentication<br>
-        <img src="https://github.com/luizpaulogroup/selling-system-in-laravel/blob/master/images-sytem/authentication.png?raw=true" width="800">
-    </p>
     
    <p align="center">
         Sales<br>
