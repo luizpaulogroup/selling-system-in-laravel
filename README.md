@@ -8,7 +8,7 @@
     
    <p align="center">
         Clients<br>
-        <img src="https://github.com/luizpaulogroup/selling-system-in-laravel/blob/master/images-sytem/authentication.png?raw=true" width="800">
+        <img src="https://github.com/luizpaulogroup/selling-system-in-laravel/blob/master/images-sytem/client.index.png?raw=true" width="800">
     </p>
     
    <p align="center">
