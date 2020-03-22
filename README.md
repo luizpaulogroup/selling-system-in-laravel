@@ -2,8 +2,8 @@
 
 <div>
     <p align="center">
-        Authentication
-        <img src="https://github.com/luizpaulogroup/selling-system-in-laravel/blob/master/images-sytem/authentication.png?raw=true" width="400">
+        ## Authentication<br>
+        <img src="https://github.com/luizpaulogroup/selling-system-in-laravel/blob/master/images-sytem/authentication.png?raw=true" width="800">
     </p>
 </div>
 
