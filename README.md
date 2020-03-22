@@ -1,3 +1,11 @@
+<p align="center">
+
+Learning the framework.
+
+I am studying this framework,
+learning how to manipulate data with bank, session, routes, methods. With that, I developed this very basic / simple selling system (1: 1).
+</p>
+
 <p align="center">Screens of system</p>
 
 <div>
