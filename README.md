@@ -20,6 +20,22 @@
         Client - client<br>
         <img src="https://github.com/luizpaulogroup/selling-system-in-laravel/blob/master/images-sytem/client.client.png?raw=true" width="800">
     </p>
+    
+   <p align="center">
+        Sales<br>
+        <img src="https://github.com/luizpaulogroup/selling-system-in-laravel/blob/master/images-sytem/sale.index.png?raw=true" width="800">
+    </p>
+    
+   <p align="center">
+        Sale - create<br>
+        <img src="https://github.com/luizpaulogroup/selling-system-in-laravel/blob/master/images-sytem/sale.create.png?raw=true" width="800">
+    </p>
+    
+   <p align="center">
+        Sale - sale<br>
+        <img src="https://github.com/luizpaulogroup/selling-system-in-laravel/blob/master/images-sytem/sale.sale.png?raw=true" width="800">
+    </p>
+    
 </div>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
